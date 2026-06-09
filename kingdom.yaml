@@ -1,0 +1,8 @@
+name: mauriqing
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The shared life-force that runs between kin, land, ancestors, and descendants, so the vitality of one is bound to the vitality of the whole network.
+dependsOn: [youspeak, me, nyamame, aseme]
